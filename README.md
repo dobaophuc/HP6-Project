@@ -1,4 +1,4 @@
-uần Của Tôi - Ứng dụng Lên Lịch Trình Tuần Đơn Giản
+Tuần Của Tôi - Ứng dụng Lên Lịch Trình Tuần Đơn Giản
 ✨ Sắp xếp công việc, cân bằng cuộc sống. ✨
 
 Bạn có cảm thấy choáng ngợp với hàng tá công việc cần làm mỗi tuần không? Tuần Của Tôi là một ứng dụng lập kế hoạch tuần tối giản, được thiết kế để giúp bạn quản lý thời gian một cách trực quan và hiệu quả. Với giao diện thân thiện và các tính năng tập trung vào sự đơn giản, ứng dụng này phù hợp cho tất cả mọi người, từ học sinh, sinh viên đến những người đi làm bận rộn.
@@ -22,11 +22,9 @@ Giao diện tối giản: Tập trung hoàn toàn vào kế hoạch của bạn 
 Chế độ Sáng & Tối (Light & Dark Mode): Tự động chuyển đổi giao diện để phù hợp với cài đặt hệ thống, giúp bảo vệ mắt của bạn.
 Đồng bộ hóa (Dự kiến): Truy cập và quản lý lịch trình của bạn trên mọi thiết bị.
 🖼️ Hình ảnh Demo
-(Bạn có thể chèn ảnh chụp màn hình của ứng dụng tại đây)
-
+...
 Giao diện chính - Chế độ xem tuần	Thêm công việc mới
-![alt text](URL_HINH_ANH_1.png)
-![alt text](URL_HINH_ANH_2.png)
+
 🛠️ Công nghệ sử dụng
 Ngôn ngữ: Swift
 Framework: SwiftUI
